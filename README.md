@@ -1,6 +1,6 @@
 # PyLadies Dublin June In-Person Meetup @ Travelport
 
-PyLadies Dublin are excited to collaborate with PyData Ireland for our June meetup.
+PyLadies Dublin are excited to collaborate with [PyData Ireland](https://www.meetup.com/pydataireland/) for our June meetup.
 
 * 🗓 When: Tuesday, Wednesday, June 19, 2024
 * 📍 Where: Travelport
@@ -38,6 +38,8 @@ Tony O'Halloran is the Applied AI Lead at a top-secret Dublin-based start-up
 * Travelport for hosting & catering AND Sarah for organising it all for us.
     * https://www.travelport.com
     * https://www.travelport.com/careers
+  * PyData Ireland for partnering for this month's event
+    * https://www.meetup.com/pydataireland/
 
 ### Regular partners
 * [Coding Grace](https://codinggrace.com) for videoing & post-production
