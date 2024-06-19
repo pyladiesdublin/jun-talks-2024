@@ -38,7 +38,7 @@ Tony O'Halloran is the Applied AI Lead at a top-secret Dublin-based start-up
 * Travelport for hosting & catering AND Sarah for organising it all for us.
     * https://www.travelport.com
     * https://www.travelport.com/careers
-  * PyData Ireland for partnering for this month's event
+* PyData Ireland for partnering for this month's event
     * https://www.meetup.com/pydataireland/
 
 ### Regular partners
