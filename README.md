@@ -9,7 +9,7 @@ PyLadies Dublin are excited to collaborate with PyData Ireland for our June meet
 
   
 # 📢 Announcements
-Coming soon
+https://docs.google.com/presentation/d/e/2PACX-1vSxFpwqjGnMg4BML1YmN_DZ0LIbmEfhfHshSnDxJOMDwdGHUNsjUK5su8P3zf_Ag2l8w0-GR-GHFUUH/pub?start=false&loop=false&delayms=3000
 
 # Talks
 ## Talk 1: Building Intelligent Applications with LangChain
