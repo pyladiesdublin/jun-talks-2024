@@ -36,7 +36,8 @@ Tony O'Halloran is the Applied AI Lead at a top-secret Dublin-based start-up
   
 # 💟 Thanks 
 * Travelport for hosting & catering AND Sarah for organising it all for us.
-    * https://www.travelport.com/
+    * https://www.travelport.com
+    * https://www.travelport.com/careers
 
 ### Regular partners
 * [Coding Grace](https://codinggrace.com) for videoing & post-production
