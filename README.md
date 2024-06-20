@@ -15,6 +15,9 @@ https://docs.google.com/presentation/d/e/2PACX-1vSxFpwqjGnMg4BML1YmN_DZ0LIbmEfhf
 ## Talk 1: Building Intelligent Applications with LangChain
 (30 mins) In an era where artificial intelligence is not just a buzzword but a pivotal driver of innovation, harnessing the power of large language models (LLMs) using Python is more crucial than ever. Join us for a deep dive into the world of LangChain, the groundbreaking library that is democratizing access to LLMs for developers and businesses alike. This presentation offers a concise exploration with practical insights of LangChain. From a quick introduction to a discovery of pivotal features and capabilities that facilitate easy integration of LLMs into your projects and a demonstration of building an AI-powered application with Langchain, showcasing its practicality and efficiency.
 
+* Slides: https://github.com/pyladiesdublin/jun-talks-2024/blob/main/Toma_Ijatomi/PyLadies%20Presentation%20-%20LangChain.pptx
+* Notebook: https://github.com/pyladiesdublin/jun-talks-2024/blob/main/Toma_Ijatomi/Chat_with_a_Website_RAG_using_LangChain.ipynb
+
 ### About Toma Ijatomi
 Toma is a Data Scientist and IT Professional with over 10 years of technical experience in leveraging technology to solve business problems and drive innovation. She is currently enriching her expertise by pursuing a Master's in Computing, with a focus on Artificial Intelligence at Dublin City University (DCU).
 
