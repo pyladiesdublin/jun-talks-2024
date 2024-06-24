@@ -28,6 +28,8 @@ Toma is a Data Scientist and IT Professional with over 10 years of technical exp
 Designed for a general audience, this presentation will provide a clear understanding of how transformers, the building blocks behind sophisticated AI systems, enable machines to comprehend and generate human-like text. Tony will explore how transformers learn to focus on crucial words and phrases within vast amounts of text data, enhancing their ability to grasp context and meaning.
 The discussion will cover the revolutionary impact of transformer technology on natural language processing tasks and its potential to transform various industries. By examining key developments and real-world applications, attendees will gain insights into transformers' transformative capabilities and indispensable role in AI.
 
+* Slides: https://github.com/pyladiesdublin/jun-talks-2024/blob/90a9c55a51a91d08541cf0bfc94474247aef0b1a/Tony_OHalloran/Transformers%20and%20the%20Attention%20Mechanism%20(1).ipynb
+  
 ### About Tony O'Halloran
 Tony O'Halloran is the Applied AI Lead at a top-secret Dublin-based start-up
 
